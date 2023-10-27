@@ -1,3 +1,4 @@
+# DreamTexture.js - 基于稳定扩散的3D模型自动纹理化开发包
 [DreamTexture.js](https://tools.nsdt.cloud/DreamTexture) 是面向 three.js 开发者的 3D 模型纹理自动生成与设置开发包，可以为 webGL 应用增加 3D 模型的快速自动纹理化能力。
 
 ![image](https://github.com/ciga2011/DreamTextureJS/assets/3120837/7ce1fec1-ac28-48b5-8b56-8c0c8b5d44f3)
